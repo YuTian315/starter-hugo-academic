@@ -16,13 +16,12 @@ content:
   office_hours:
     - Monday-Friday 8:30 to 17:30
   phone: 18874098439
-  appointment_url: https://calendly.com
   directions: Room 201, Computer Building, Central South University
   address:
     street: Yuelu street
     city: ChangSha
     region: Yuelu District
-    postcode: "411000"
+    postcode: "932"
     country: China
     country_code: China
   #contact_links:

@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: r-project
+    icon: microchip-ai
     icon_pack: fab
     name: R
   - description: 100%
@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 10%
-    icon: camera-retro
+    icon: brain-circuit
     icon_pack: fas
     name: Photography
 # Uncomment to use emoji icons.
