@@ -1,7 +1,7 @@
 ---
 title: Jin Lin
 role: Associate Professor of Computer Department
-avatar_filename: https://faculty.csu.edu.cn/_tsf/00/3F/juUNNv7fYRny.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
