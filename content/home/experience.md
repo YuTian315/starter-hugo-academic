@@ -25,7 +25,7 @@ experience:
   - title: 'Associate Professor'
     company: 'Central South University'
     company_url: ''
-    company_logo: org-gc
+    company_logo: csu
     location: 'ChangSha China'
     date_start: '2018-03-01'
     date_end: ''
