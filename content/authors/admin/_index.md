@@ -37,8 +37,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jin Liu, male, associate professor of School of Computer Science, Central South University, PhD/master's degree supervisor, excellent doctoral thesis winner in Hunan Province, senior member of CCF, member of CCF Bioinformatics Specialized Committee, member of CSIG Brain Mapping Specialized Committee, first member of Hunan Neuroscience Society Parkinson's Disease and Movement Disorder Disease Specialized Committee. His main research interests are artificial intelligence, medical image data processing and analysis, and big data.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
