@@ -25,7 +25,7 @@ experience:
   - title: Associate Professor
     company: Central South University
     company_url: ''
-    company_logo: csu
+    company_logo: org-x
     location: ChangSha China
     date_start: '2018-03-01'
     date_end: ''
@@ -35,11 +35,11 @@ experience:
         * Responsible for the medical imaging analysis laboratory
         * Supervising graduate students
         * Teaching undergraduate students
-        
+
   - title: Lecturer
     company: Central South University
     company_url: ''
-    company_logo: csu
+    company_logo: org-gc
     location: ChangSha China
     date_start: '2018-03-01'
     date_end: '2018-03-01'
