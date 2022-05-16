@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Associate Professor
-    company: Central South University
+  - title: 'Associate Professor'
+    company: 'Central South University'
     company_url: ''
     company_logo: org-gc
     location: 'ChangSha China'
@@ -36,14 +36,14 @@ experience:
         * Supervising graduate students
         * Teaching undergraduate students
 
-  - title: Lecturer
-    company: Central South University
+  - title: 'Lecturer'
+    company: 'Central South University'
     company_url: ''
-    company_logo: org-x
+    company_logo: csu
     location: 'ChangSha Chin'
     date_start: '2018-03-01'
     date_end: '2018-03-01'
-    description: Engaged in scientific research on medical image processing and analysis.
+    description: 'Engaged in scientific research on medical image processing and analysis.'
 
 
 design:
