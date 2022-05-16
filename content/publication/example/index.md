@@ -6,14 +6,16 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Jianxing Wang
+  - Yi Pan
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
+  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2019-02-09T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,13 +28,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: In *Neurocomputing*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Autism spectrum disorder (ASD) is a common neurodevelopmental disorder that seriously affects communication and sociality of patients. It is crucial to accurately identify patients with ASD from typical controls (TC). Conventional methods for the classification of ASD/TC mainly extract morphological features independently at different regions of interest (ROIs), rarely considering the connectivity between these ROIs. In this study, we construct an individual brain network as feature representation, and use a deep neural network (DNN) classifier to perform ASD/TC classification. Firstly, we construct an individual brain network for each subject, and extract connectivity features between each pair of ROIs. Secondly, the connectivity features are ranked in descending order using F-score, and the top ranked features are selected. Finally, the selected 3000 top features are used to perform ASD/TC classification via a DNN classifier. An evaluation of the proposed method has been conducted with T1-weighted MRI images from the Autism Brain Imaging Data Exchange I (ABIDE I) by using ten-fold cross validation. Experimental results show that our proposed method can achieve the accuracy of 90.39% and the area under receiver operating characteristic curve (AUC) of 0.9738 for ASD/TC classification. Comparison of experimental results illustrates that our proposed method outperforms some state-of-the-art methods in ASD/TC classification.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We construct an individual brain network as feature representation, and use a deep neural network (DNN) classifier to perform ASD/TC classification.
 
 tags: []
 
