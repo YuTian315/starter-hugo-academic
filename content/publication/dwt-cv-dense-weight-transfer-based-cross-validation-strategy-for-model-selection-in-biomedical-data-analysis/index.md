@@ -3,6 +3,9 @@ title: "DWT-CV: Dense weight transfer-based cross validation strategy for model
   selection in biomedical data analysis"
 publication_types:
   - "2"
+
+doi: ''
+
 authors:
   - Jianhong Cheng
   - Hulin Kuang
