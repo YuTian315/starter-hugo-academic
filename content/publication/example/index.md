@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Classification of autism spectrum disorder'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -25,11 +25,11 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Neurocomputing*
-publication_short: In *ICW*
+publication: *Neurocomputing*
+publication_short: In *Neurocomputing*
 
 abstract: Autism spectrum disorder (ASD) is a common neurodevelopmental disorder that seriously affects communication and sociality of patients. It is crucial to accurately identify patients with ASD from typical controls (TC). Conventional methods for the classification of ASD/TC mainly extract morphological features independently at different regions of interest (ROIs), rarely considering the connectivity between these ROIs. In this study, we construct an individual brain network as feature representation, and use a deep neural network (DNN) classifier to perform ASD/TC classification. Firstly, we construct an individual brain network for each subject, and extract connectivity features between each pair of ROIs. Secondly, the connectivity features are ranked in descending order using F-score, and the top ranked features are selected. Finally, the selected 3000 top features are used to perform ASD/TC classification via a DNN classifier. An evaluation of the proposed method has been conducted with T1-weighted MRI images from the Autism Brain Imaging Data Exchange I (ABIDE I) by using ten-fold cross validation. Experimental results show that our proposed method can achieve the accuracy of 90.39% and the area under receiver operating characteristic curve (AUC) of 0.9738 for ASD/TC classification. Comparison of experimental results illustrates that our proposed method outperforms some state-of-the-art methods in ASD/TC classification.
 
@@ -67,15 +67,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+#projects:
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+#   Otherwise, set `slides: ""`.s
+#slides: example
 ---
 
 {{% callout note %}}
