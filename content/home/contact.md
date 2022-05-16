@@ -41,4 +41,6 @@ content:
   email: test@example.org
 design:
   columns: "2"
+  background:
+    color: "#000000"
 ---
