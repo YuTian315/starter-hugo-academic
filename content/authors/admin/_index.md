@@ -29,10 +29,10 @@ education:
       year: 2018
     - course: Ph.D. in Computer Department
       institution: Central South University
-      year: ""
+      year: 2013
     - course: M.D. in Computer Science and Technology
       institution: University of Chinese Academy of Sciences
-      year: ""
+      year: 2010
 email: ""
 superuser: true
 highlight_name: true
