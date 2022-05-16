@@ -43,4 +43,7 @@ design:
   columns: "2"
   background:
     color: "#00000"
+    gradient_start: "#d07c7c"
+    gradient_end: "#c40a0a"
+    text_color_light: true
 ---
