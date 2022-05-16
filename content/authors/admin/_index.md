@@ -18,7 +18,7 @@ social:
     link: https://scholar.google.com/citations?user=yfS3HzYAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/miacsu
 organizations:
   - name: Central South University
     url: https://www.csu.edu.cn/
