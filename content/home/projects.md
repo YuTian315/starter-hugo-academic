@@ -27,6 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Medical Image Analysis
+      tag: Medical Image Analysis
     - name: Deep Learning
       tag: Deep Learning
     - name: Other
