@@ -1,12 +1,12 @@
 ---
-title: Example Project 2
-summary: An example of using the in-built project page.
+title: Medical image processing and analysis platform
+summary: Preprocessing data of three modal of Magnetic Resonance, including fMRI, sMRI and DTI.
 tags:
   - Medical Image Analysis
-date: '2016-04-27T00:00:00Z'
+date: '2020-04-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'http://www.miacsu.group/'
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -15,8 +15,8 @@ image:
 links:
   - icon: twitter
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: Web
+    url: http://www.miacsu.group/
 url_code: ''
 url_pdf: ''
 url_slides: ''
