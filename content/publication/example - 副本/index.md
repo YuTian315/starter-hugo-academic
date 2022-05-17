@@ -1,28 +1,25 @@
 ---
-title: 'DWT-CV: Dense weight transfer-based cross validation strategy for model selection in biomedical data analysis'
+title: 'Classification of autism spectrum disorder by combining brain connectivity and deep neural network classifier'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Jianhong Cheng
-- Hulin Kuang
-- Qichang Zhao
-- Yahui Wang
-- Lei Xu
-- Jin Liu
-- Jianxin Wang
+  - admin
+  - Jianxing Wang
+  - Yi Pan
 
 # Author notes (optional)
 author_notes:
-  - 'First Author'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
 
-
-date: '2022-05-17T00:00:00Z'
+date: '2019-02-09T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-04-030T00:00:00Z'
+publishDate: '2019-02-09T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,39 +28,18 @@ publishDate: '2022-04-030T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: *Future Generation Computer Systems*
-publication_short: *FGCS*
+publication: In *Neurocomputing*
+publication_short: In *Neurocomputing*
 
-abstract: Model selection for deep learning algorithms is an extremely important
-  step in the process of extracting knowledge from limited data, especially in
-  biomedical data. The common approach is to adopt cross-validation techniques
-  to randomly divide a small subset of the training set as the validation data
-  for parameter tuning and model selection. However, this method may choose a
-  sub-optimal model due to insufficient data utilization, and the process, such
-  as -fold cross-validation, is cumbersome and time-consuming. In this study, we
-  propose a dense weight transfer-based cross validation (DWT-CV) strategy for
-  biomedical data analysis and use this strategy to improve the generalization
-  of deep learning algorithms with reduced training time using weight transfer
-  learning. DWT-CV utilizes a dense weight aggregation and weight transfer
-  mechanism to make the model more general and converge faster during the cross
-  validation. The effectiveness of the proposed strategy is evaluated on
-  multiple experiments with three different domains including biomedical image
-  classification, drug–target affinity prediction, and medical image
-  segmentation. Extensive experimental results demonstrate that our proposed
-  DWT-CV strategy can make several deep learning benchmark methods perform
-  better on multiple biomedical datasets, which implies that it may be an
-  alternative to the traditional cross validation criterion for model selection.
+abstract: Autism spectrum disorder (ASD) is a common neurodevelopmental disorder that seriously affects communication and sociality of patients. It is crucial to accurately identify patients with ASD from typical controls (TC). Conventional methods for the classification of ASD/TC mainly extract morphological features independently at different regions of interest (ROIs), rarely considering the connectivity between these ROIs. In this study, we construct an individual brain network as feature representation, and use a deep neural network (DNN) classifier to perform ASD/TC classification. Firstly, we construct an individual brain network for each subject, and extract connectivity features between each pair of ROIs. Secondly, the connectivity features are ranked in descending order using F-score, and the top ranked features are selected. Finally, the selected 3000 top features are used to perform ASD/TC classification via a DNN classifier. An evaluation of the proposed method has been conducted with T1-weighted MRI images from the Autism Brain Imaging Data Exchange I (ABIDE I) by using ten-fold cross validation. Experimental results show that our proposed method can achieve the accuracy of 90.39% and the area under receiver operating characteristic curve (AUC) of 0.9738 for ASD/TC classification. Comparison of experimental results illustrates that our proposed method outperforms some state-of-the-art methods in ASD/TC classification.
 
 # Summary. An optional shortened abstract.
-summary: we propose a dense weight transfer-based cross validation (DWT-CV) strategy for
-biomedical data analysis and use this strategy to improve the generalization
-of deep learning algorithms with reduced training time using weight transfer
-learning.
+summary: We construct an individual brain network as feature representation, and use a deep neural network (DNN) classifier to perform ASD/TC classification.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
