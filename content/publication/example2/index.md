@@ -1,6 +1,5 @@
 ---
-title: "DWT-CV: Dense weight transfer-based cross validation strategy for model
-  selection in biomedical data analysis"
+title: 'DWT-CV: Dense weight transfer-based cross validation strategy for model selection in biomedical data analysis'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -32,8 +31,8 @@ publishDate: '2022-04-030T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Future Generation Computer Systems
-publication_short: FGCS
+publication: *Future Generation Computer Systems*
+publication_short: *FGCS*
 
 abstract: Model selection for deep learning algorithms is an extremely important
   step in the process of extracting knowledge from limited data, especially in
