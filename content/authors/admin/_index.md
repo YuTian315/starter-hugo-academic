@@ -2,8 +2,8 @@
 title: Jin Lin
 role: Associate Professor of Computer Department
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Medical Image Analysis, Big Data
+  Deep Learning, and Machine Learning.
 interests:
   - Machine Learning
   - Deep Learning
