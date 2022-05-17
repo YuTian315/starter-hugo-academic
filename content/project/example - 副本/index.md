@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 Data Preprocessing: Preprocessing data of three modal of Magnetic Resonance, including fMRI, sMRI and DTI. We use the cloud storage system to allow you submitting before processing data on cloud device.
