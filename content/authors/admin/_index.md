@@ -7,7 +7,7 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Machine Learning
   - Deep Learning
-  - Medical Image Processing and Analysis
+  - Medical Image Analysis
   - Big Data
 social:
   - icon: envelope
