@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Web
-    url: https://www.miacsu.group
+    url: http://www.miacsu.group
 url_code: ''
 url_pdf: ''
 url_slides: ''
