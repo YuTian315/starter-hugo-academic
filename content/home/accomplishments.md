@@ -34,10 +34,10 @@ item:
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
-    description: Winner of Excellent Doctoral dissertation in Hunan Province
+    description: ''
     organization: edX
     organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
+    title: Winner of Excellent Doctoral dissertation in Hunan Province
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #- certificate_url: https://www.datacamp.com
   #  date_end: '2020-12-21'
