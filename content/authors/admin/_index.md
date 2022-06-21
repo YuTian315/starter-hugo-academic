@@ -4,11 +4,11 @@ role: Associate Professor of Computer Department; Doctoral Advisor; Master Advis
 avatar_filename: avatar.jpg
 bio: My research interests include Medical Image Analysis, Big Data Deep
   Learning, and Machine Learning.
-#interests:
-#  - Machine Learning
-#  - Deep Learning
-#  - Medical Image Analysis
-#  - Big Data
+interests:
+  - Machine Learning
+  - Deep Learning
+  - Medical Image Analysis
+  - Big Data
 social:
   - icon: envelope
     icon_pack: fas
