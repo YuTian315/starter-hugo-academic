@@ -2,8 +2,8 @@
 title: Jin Lin
 role: Associate Professor of Computer Department; Doctoral Advisor; Master Advisor
 avatar_filename: avatar.jpg
-bio: My research interests include Medical Image Analysis, Big Data
-  Deep Learning, and Machine Learning.
+bio: My research interests include Medical Image Analysis, Big Data Deep
+  Learning, and Machine Learning.
 interests:
   - Machine Learning
   - Deep Learning
