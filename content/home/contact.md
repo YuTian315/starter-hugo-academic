@@ -5,13 +5,13 @@ headless: true
 weight: 130
 title: Contact
 subtitle: null
-content:
-  form:
-    provider: netlify
-    formspree:
-      ? id
-    netlify:
-      captcha: false
+#content:
+#  form:
+#    provider: netlify
+#    formspree:
+#      ? id
+#    netlify:
+#      captcha: false
   autolink: true
   office_hours:
     - Monday-Friday 8:30 to 17:30
