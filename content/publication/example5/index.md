@@ -24,21 +24,21 @@ publishDate: '2022-6-00T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*
-publication_short: In *BIBM*
+publication: In *IEEE Transactions on Medical Imaging*
+publication_short: In *TMI*
 
-abstract: Automatic detection of Alzheimer’s disease (AD) is conducive to intervention in the disease progression. MMSE score prediction can reveal the development of AD. In recent years, some studies have designed multi-task methods for AD detection and MMSE score prediction to take advantage of the correlation between them. However, how to use the correlation between the two task features is still a problem. To address this challenge, we propose a multi-task feature interactive leanrning network (MTFIL-Net) to perform AD detection and MMSE score prediction. First, we interact the features acquired by CNNs corresponding to the two tasks to take advantage of the feature correlation between the two tasks. The interaction module extracts the shared features of the two tasks and concatenate them with the features of the two task. Then, we design a joint loss based on cross entropy and smooth L1 function. We use the distribution of MMSE scores to dynamically adjust the relationship between the two tasks. We validate our method with subjects from the Alzheimer’s Disease Neuroimaging Initiative (ADNI). We use the ADNI1 dataset for training and testing, and used the ADNI2 dataset as an external validation set. Our proposed MTFIL-Net reached an ACC of 0.86 for AD detection and a correlation coefficient of 0.67 for MMSE score prediction on the ADNI1 dataset, and reached an ACC of 0.85 for AD detection and a correlation coefficient of 0.66 for MMSE score prediction on the ADNI2 dataset. Experiment results show that MTFIL-Net effectively utilizes the correlation between AD and MMSE score.
+abstract: AThe accurate prediction of isocitrate dehydrogenase (IDH) mutation and glioma segmentation are important tasks for computer-aided diagnosis using preoperative multimodal magnetic resonance imaging (MRI). The two tasks are ongoing challenges due to the significant inter-tumor and intra-tumor heterogeneity. The existing methods to address them are mostly based on single-task approaches without considering the correlation between the two tasks. In addition, the acquisition of IDH genetic labels is expensive and costly, resulting in a limited number of IDH mutation data for modeling. To comprehensively address these problems, we propose a fully automated multimodal MRI-based multi-task learning framework for simultaneous glioma segmentation and IDH genotyping. Specifically, the task correlation and heterogeneity are tackled with a hybrid CNN-Transformer encoder that consists of a convolutional …
 
 # Summary. An optional shortened abstract.
-summary:  We propose a multi-task feature interactive leanrning network (MTFIL-Net) to perform AD detection and MMSE score prediction.
+summary:
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
