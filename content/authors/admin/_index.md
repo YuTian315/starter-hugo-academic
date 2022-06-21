@@ -4,11 +4,11 @@ role: Associate Professor of Computer Department; Doctoral Advisor; Master Advis
 avatar_filename: avatar.jpg
 bio: My research interests include Medical Image Analysis, Big Data Deep
   Learning, and Machine Learning.
-interests:
-  - Machine Learning
-  - Deep Learning
-  - Medical Image Analysis
-  - Big Data
+#interests:
+#  - Machine Learning
+#  - Deep Learning
+#  - Medical Image Analysis
+#  - Big Data
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,17 +22,17 @@ social:
 organizations:
   - name: Central South University
     url: https://www.csu.edu.cn/
-education:
-  courses:
-    - course: Associate Professor; Lecturer
-      institution: Central South University
-      year: 2018
-    - course: Ph.D. in Computer Department
-      institution: Central South University
-      year: 2013
-    - course: M.D. in Computer Science and Technology
-      institution: University of Chinese Academy of Sciences
-      year: 2010
+#education:
+#  courses:
+#    - course: Associate Professor; Lecturer
+#      institution: Central South University
+#      year: 2018
+#    - course: Ph.D. in Computer Department
+#      institution: Central South University
+#      year: 2013
+#    - course: M.D. in Computer Science and Technology
+#      institution: University of Chinese Academy of Sciences
+#      year: 2010
 email: ""
 superuser: true
 highlight_name: true
