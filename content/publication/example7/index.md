@@ -42,7 +42,7 @@ summary: we designed an algorithm to capture the peritumoral region with a speci
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
