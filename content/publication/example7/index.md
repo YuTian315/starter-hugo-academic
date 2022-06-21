@@ -1,5 +1,5 @@
 ---
-title: 'A Fully Automated Multimodal MRI-based Multi-task Learning for Glioma Segmentation and IDH Genotyping'
+title: 'Prediction of Glioma Grade using Intratumoral and Peritumoral Radiomic Features from Multiparametric MRI Images'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,8 +7,12 @@ title: 'A Fully Automated Multimodal MRI-based Multi-task Learning for Glioma Se
 authors:
 - Jianhong Cheng
 - Jin Liu
-- Hulin Kuang
+- Hailin Yue
+- Harrison Bai
+- Yi Pan
 - Jianxin Wang
+
+
 # Author notes (optional)
 author_notes:
   - 'First'
@@ -18,7 +22,7 @@ date: '2021-12-09T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-6-00T00:00:00Z'
+publishDate: '2020-6-00T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,18 +31,18 @@ publishDate: '2022-6-00T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Medical Imaging*
-publication_short: In *TMI*
+publication: In *IEEE/ACM Transactions on Computational Biology and Bioinformatics*
+publication_short: In *TCBB*
 
-abstract: AThe accurate prediction of isocitrate dehydrogenase (IDH) mutation and glioma segmentation are important tasks for computer-aided diagnosis using preoperative multimodal magnetic resonance imaging (MRI). The two tasks are ongoing challenges due to the significant inter-tumor and intra-tumor heterogeneity. The existing methods to address them are mostly based on single-task approaches without considering the correlation between the two tasks. In addition, the acquisition of IDH genetic labels is expensive and costly, resulting in a limited number of IDH mutation data for modeling. To comprehensively address these problems, we propose a fully automated multimodal MRI-based multi-task learning framework for simultaneous glioma segmentation and IDH genotyping. Specifically, the task correlation and heterogeneity are tackled with a hybrid CNN-Transformer encoder that consists of a convolutional …
+abstract: The accurate prediction of glioma grade is essential for treatment planning and prognosis. In this study, we proposed a novel radiomics-based pipeline by incorporating the intratumoral and peritumoral features extracted from preoperative mpMRI scans to accurately and noninvasively predict glioma grade. To address the unclear peritumoral boundary, we designed an algorithm to capture the peritumoral region with a specified radius. The mpMRI scans of 285 patients derived from a multi-institutional study were adopted. A total of 2153 radiomic features were calculated separately from intratumoral volumes (ITVs) and peritumoral volumes (PTVs) on mpMRI scans, and then refined using LASSO and mRMR feature ranking methods. The top-ranking radiomic features were entered into the classifiers to build radiomic signatures for predicting glioma grade. The prediction performance was evaluated with five-fold cross …
 
 # Summary. An optional shortened abstract.
-summary: we propose a fully automated multimodal MRI-based multi-task learning framework for simultaneous glioma segmentation and IDH genotyping.
+summary: we designed an algorithm to capture the peritumoral region with a specified radius.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

@@ -1,14 +1,21 @@
 ---
-title: 'A Fully Automated Multimodal MRI-based Multi-task Learning for Glioma Segmentation and IDH Genotyping'
+title: 'LDICDL: LncRNA-disease association identification based on collaborative deep learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Jianhong Cheng
+- Wei Lan
+- Dehuan Lai
+- Qingfeng Chen
+- Ximin Wu
+- Baoshan Chen
 - Jin Liu
-- Hulin Kuang
 - Jianxin Wang
+- Yi-Ping
+- Phoebe Chen
+
+
 # Author notes (optional)
 author_notes:
   - 'First'
@@ -18,7 +25,7 @@ date: '2021-12-09T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-6-00T00:00:00Z'
+publishDate: '2020-6-00T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,18 +34,18 @@ publishDate: '2022-6-00T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Medical Imaging*
-publication_short: In *TMI*
+publication: In *IEEE/ACM Transactions on Computational Biology and Bioinformatics*
+publication_short: In *TCBB*
 
-abstract: AThe accurate prediction of isocitrate dehydrogenase (IDH) mutation and glioma segmentation are important tasks for computer-aided diagnosis using preoperative multimodal magnetic resonance imaging (MRI). The two tasks are ongoing challenges due to the significant inter-tumor and intra-tumor heterogeneity. The existing methods to address them are mostly based on single-task approaches without considering the correlation between the two tasks. In addition, the acquisition of IDH genetic labels is expensive and costly, resulting in a limited number of IDH mutation data for modeling. To comprehensively address these problems, we propose a fully automated multimodal MRI-based multi-task learning framework for simultaneous glioma segmentation and IDH genotyping. Specifically, the task correlation and heterogeneity are tackled with a hybrid CNN-Transformer encoder that consists of a convolutional …
+abstract: It has been proved that long noncoding RNA (lncRNA) plays critical roles in many human diseases. Therefore, inferring associations between lncRNAs and diseases can contribute to disease diagnosis, prognosis and treatment. To overcome the limitation of traditional experimental methods such as expensive and time-consuming, several computational methods have been proposed to predict lncRNA-disease associations by fusing different biological data. However, the prediction performance of lncRNA-disease associations identification need to be improved. In this study, we propose a computational model (named LDICDL) to identify lncRNA-disease associations based on collaborative deep learning. It uses an automatic encoder to denoise multiple lncRNA feature information and multiple disease feature information, respectively. Then, the matrix decomposition algorithm is employed to predict the potential …
 
 # Summary. An optional shortened abstract.
-summary: we propose a fully automated multimodal MRI-based multi-task learning framework for simultaneous glioma segmentation and IDH genotyping.
+summary: several computational methods have been proposed to predict lncRNA-disease associations by fusing different biological data.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
